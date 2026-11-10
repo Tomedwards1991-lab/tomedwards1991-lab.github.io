@@ -29,8 +29,8 @@
   </g>
   <g fill="#f8d9e8" font-family="monospace" font-size="10" letter-spacing="1.25">
     <text x="49" y="55">ТЕРЕННИ БЕЛЕЖКИ</text>
-    <text x="511" y="55" text-anchor="end">НАБЛЮДЕНИЕ / 01</text>
-    <text x="49" y="483">СНИМКА → СИГНАЛ → ЗАПИС</text>
+    <text x="511" y="55" text-anchor="end">НАБЛЮДЕНИЕ № 01</text>
+    <text x="49" y="483">СНИМКА → РАЗПОЗНАВАНЕ → РЕГИСТРИРАНЕ</text>
     <text x="511" y="483" text-anchor="end">ИЛЮСТРАЦИЯ</text>
   </g>
   <g stroke="#e9b0cc" stroke-width="1" fill="none" opacity=".82">
@@ -41,8 +41,8 @@
   </g>
   <g fill="#f8d9e8" font-family="monospace" font-size="9" letter-spacing="1">
     <text x="511" y="127" text-anchor="end">01 / СНИМКА</text>
-    <text x="49" y="360">02 / СИГНАЛ</text>
-    <text x="399" y="404">03 / ЗАПИС</text>
+    <text x="49" y="360">02 / РАЗПОЗНАВАНЕ</text>
+    <text x="511" y="404" text-anchor="end">03 / РЕГИСТРИРАНЕ</text>
   </g>
   <g transform="rotate(-7 282 255)" stroke-linejoin="round">
     <path d="M132 219 88 114 127 143 176 176 227 194 276 222 314 234 347 207 365 178 394 169 418 182 445 195 414 205 399 220 376 250 345 271 294 296 271 325 220 359 169 377 201 345 156 360 198 318 251 278 216 265 175 245Z" fill="#2e1024" opacity=".55" transform="translate(4 10)"/>
